@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>co-launcher</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<variableList>
+		<variable>
+			<name>JAVA_LOC</name>
+			<value>file:/Users/robeh3/GitHub/co-launcher/Launcher2-master/src/com/android/launcher2</value>
+		</variable>
+	</variableList>
+</projectDescription>
